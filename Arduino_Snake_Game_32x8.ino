@@ -3,6 +3,8 @@
  Project Title:
  Arduino Snake Game (32x8 MAX7219 LED Matrix)
 
+ YouTube: https://www.youtube.com/channel/UCpfAZXTqOsfymN9km-hLfFQ
+
  Description:
  A beginner-friendly Snake Game using a 32x8 LED Matrix.
  This project uses dual rendering:
