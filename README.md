@@ -74,7 +74,7 @@ This separation ensures **clean visuals with no ghosting**, making the gameplay 
 
 Download the Arduino sketch here:
 
-[Download Arduino Code](Arduino_Snake_Game.ino)
+[Download Arduino Code](Arduino_Snake_Game_32x8.ino)
 
 Or open the `.ino` file directly from this repository.
 
